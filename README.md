@@ -11,8 +11,6 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 B.Tech in Computer Science & Engineering (SIET, Prayagraj — AKTU), 2022–2026
-- 💼 MERN Stack Developer Intern @ **IndoLike** — built REST APIs, worked on SEO tooling, and collaborated in a production codebase
 - 🛠️ I build full-stack apps with **React, Node.js, Express, and MongoDB**, and I like taking projects all the way to deployment on a Linux VPS
 - 🤖 I'm into integrating AI (Gemini API) into practical tools — SEO analysis, content generation, and more
 - 📡 Currently exploring **System Design, Generative AI, and Scalable Backend Architecture**
